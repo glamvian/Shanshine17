@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/4078e10ee221b8923e96c2d4daf6b8e87e3d2613/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b9f76abe9957597d45f62bef0b0c23bbb71c4df8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf37d15533b84fd539f8a1acdbc4b8c039ee8cfa">
+        <dex dex="/home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_046ae532d95c041775a11e9f95f1e3d6709cf447/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_126d4bd1686f0e9d82b214bb92e8aca0c8ec9a6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/glamvian/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_fe6088eabf4f232b4dd8eee98a81b1bb96e0dd1e/classes.dex" />
+    </item>
+
+</items>
