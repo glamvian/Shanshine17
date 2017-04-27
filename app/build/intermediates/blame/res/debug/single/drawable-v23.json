@@ -2,5 +2,9 @@
     {
         "merged": "/home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
         "source": "/root/.android/build-cache/9aed397bbb4eb58288cc4d301e32d5f86cca74b9/output/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/home/glamvian/.android/build-cache/ffcb1185d6e1221c6c8c66aed997410097a76639/output/res/drawable-v23/abc_control_background_material.xml"
     }
 ]

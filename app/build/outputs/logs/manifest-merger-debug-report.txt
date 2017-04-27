@@ -1,87 +1,87 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /home/glamvian/AndroidStudioProjects/Shanshine17-master/app/src/main/AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from /home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/src/main/AndroidManifest.xml:3:5-43
-		INJECTED from /home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/src/main/AndroidManifest.xml
-		INJECTED from /home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/src/main/AndroidManifest.xml
+		ADDED from /home/glamvian/AndroidStudioProjects/Shanshine17-master/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /home/glamvian/AndroidStudioProjects/Shanshine17-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/glamvian/AndroidStudioProjects/Shanshine17-master/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/src/main/AndroidManifest.xml
-		INJECTED from /home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/src/main/AndroidManifest.xml
+		INJECTED from /home/glamvian/AndroidStudioProjects/Shanshine17-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/glamvian/AndroidStudioProjects/Shanshine17-master/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/glamvian/AndroidStudioProjects/Shanshine17-master/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/src/main/AndroidManifest.xml
-		INJECTED from /home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/src/main/AndroidManifest.xml
+		INJECTED from /home/glamvian/AndroidStudioProjects/Shanshine17-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/glamvian/AndroidStudioProjects/Shanshine17-master/app/src/main/AndroidManifest.xml
 application
-ADDED from /home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/src/main/AndroidManifest.xml:5:5-19:19
-MERGED from [com.android.support:appcompat-v7:25.3.1] /root/.android/build-cache/9aed397bbb4eb58288cc4d301e32d5f86cca74b9/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] /root/.android/build-cache/b7f8b3f1fe7a383363420b134b5d266cab9c5c48/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] /root/.android/build-cache/51cf85ffde6e97f6d057cdff795b6791f24dccfd/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] /root/.android/build-cache/99d39595869b7f35fdcaa17b195fcb2d9d325d74/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] /root/.android/build-cache/813b0958deccec3bf09f8e36032ec2749ea94810/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] /root/.android/build-cache/158c0585ab51392d47de852d29da23e0719b37f6/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /root/.android/build-cache/86dbe134134894efff7ce745c980bcd714fe2318/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /root/.android/build-cache/30f26b2a8b9025f7c19535c1fbcf6a3a2212549b/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:25.3.1] /root/.android/build-cache/dc21667fa1f2b71935fddba4028f8377f02caf43/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /root/.android/build-cache/4078e10ee221b8923e96c2d4daf6b8e87e3d2613/output/AndroidManifest.xml:9:5-20
+ADDED from /home/glamvian/AndroidStudioProjects/Shanshine17-master/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/glamvian/.android/build-cache/ffcb1185d6e1221c6c8c66aed997410097a76639/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/glamvian/.android/build-cache/516e735e441e6462043ecdfa85329fc09e7bda05/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/glamvian/.android/build-cache/832f6769026e8607cc6572b6088bb946ca1428c0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/glamvian/.android/build-cache/6f566739b6d2bb41c0070fbf967d34b227f22f52/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/glamvian/.android/build-cache/5974c57e4afee7404f452bba899ee896d70c864d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/glamvian/.android/build-cache/99bd6125b1464fc49dc86a37da6c705a46a0d4f1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/glamvian/.android/build-cache/e9a330d0bbcab9ac90dbd408dc0554b173d9601f/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/glamvian/.android/build-cache/883eb146a1b852c88d8e422d121f8ea4f0a7ba7c/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/glamvian/.android/build-cache/d7e3d0380004a7aaa4f6984335641f2da989b8e4/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/glamvian/.android/build-cache/66bc8968aa82b120628286a58180e45c953a67f5/output/AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from /home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /home/glamvian/AndroidStudioProjects/Shanshine17-master/app/src/main/AndroidManifest.xml:8:9-41
 	android:supportsRtl
-		ADDED from /home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /home/glamvian/AndroidStudioProjects/Shanshine17-master/app/src/main/AndroidManifest.xml:10:9-35
 	android:roundIcon
-		ADDED from /home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /home/glamvian/AndroidStudioProjects/Shanshine17-master/app/src/main/AndroidManifest.xml:9:9-54
 	android:allowBackup
-		ADDED from /home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /home/glamvian/AndroidStudioProjects/Shanshine17-master/app/src/main/AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from /home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /home/glamvian/AndroidStudioProjects/Shanshine17-master/app/src/main/AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from /home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /home/glamvian/AndroidStudioProjects/Shanshine17-master/app/src/main/AndroidManifest.xml:11:9-40
 activity#com.example.root.shanshine17.MainActivity
-ADDED from /home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /home/glamvian/AndroidStudioProjects/Shanshine17-master/app/src/main/AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from /home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /home/glamvian/AndroidStudioProjects/Shanshine17-master/app/src/main/AndroidManifest.xml:12:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /home/glamvian/AndroidStudioProjects/Shanshine17-master/app/src/main/AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from /home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /home/glamvian/AndroidStudioProjects/Shanshine17-master/app/src/main/AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from /home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /home/glamvian/AndroidStudioProjects/Shanshine17-master/app/src/main/AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /home/glamvian/AndroidStudioProjects/Shanshine17-master/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from /home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /home/glamvian/AndroidStudioProjects/Shanshine17-master/app/src/main/AndroidManifest.xml:16:27-74
 uses-sdk
-INJECTED from /home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:25.3.1] /root/.android/build-cache/9aed397bbb4eb58288cc4d301e32d5f86cca74b9/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.3.1] /root/.android/build-cache/b7f8b3f1fe7a383363420b134b5d266cab9c5c48/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] /root/.android/build-cache/51cf85ffde6e97f6d057cdff795b6791f24dccfd/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] /root/.android/build-cache/99d39595869b7f35fdcaa17b195fcb2d9d325d74/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] /root/.android/build-cache/813b0958deccec3bf09f8e36032ec2749ea94810/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] /root/.android/build-cache/158c0585ab51392d47de852d29da23e0719b37f6/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /root/.android/build-cache/86dbe134134894efff7ce745c980bcd714fe2318/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /root/.android/build-cache/30f26b2a8b9025f7c19535c1fbcf6a3a2212549b/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-compat:25.3.1] /root/.android/build-cache/dc21667fa1f2b71935fddba4028f8377f02caf43/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /root/.android/build-cache/4078e10ee221b8923e96c2d4daf6b8e87e3d2613/output/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/glamvian/AndroidStudioProjects/Shanshine17-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/glamvian/.android/build-cache/ffcb1185d6e1221c6c8c66aed997410097a76639/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/glamvian/.android/build-cache/516e735e441e6462043ecdfa85329fc09e7bda05/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/glamvian/.android/build-cache/832f6769026e8607cc6572b6088bb946ca1428c0/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/glamvian/.android/build-cache/6f566739b6d2bb41c0070fbf967d34b227f22f52/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/glamvian/.android/build-cache/5974c57e4afee7404f452bba899ee896d70c864d/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/glamvian/.android/build-cache/99bd6125b1464fc49dc86a37da6c705a46a0d4f1/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/glamvian/.android/build-cache/e9a330d0bbcab9ac90dbd408dc0554b173d9601f/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/glamvian/.android/build-cache/883eb146a1b852c88d8e422d121f8ea4f0a7ba7c/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /home/glamvian/.android/build-cache/d7e3d0380004a7aaa4f6984335641f2da989b8e4/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/glamvian/.android/build-cache/66bc8968aa82b120628286a58180e45c953a67f5/output/AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /root/.android/build-cache/9aed397bbb4eb58288cc4d301e32d5f86cca74b9/output/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/glamvian/.android/build-cache/ffcb1185d6e1221c6c8c66aed997410097a76639/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/src/main/AndroidManifest.xml
-		INJECTED from /home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/src/main/AndroidManifest.xml
+		INJECTED from /home/glamvian/AndroidStudioProjects/Shanshine17-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/glamvian/AndroidStudioProjects/Shanshine17-master/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/src/main/AndroidManifest.xml
-		INJECTED from /home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/src/main/AndroidManifest.xml
+		INJECTED from /home/glamvian/AndroidStudioProjects/Shanshine17-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/glamvian/AndroidStudioProjects/Shanshine17-master/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.1] /root/.android/build-cache/9aed397bbb4eb58288cc4d301e32d5f86cca74b9/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] /root/.android/build-cache/b7f8b3f1fe7a383363420b134b5d266cab9c5c48/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] /root/.android/build-cache/51cf85ffde6e97f6d057cdff795b6791f24dccfd/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] /root/.android/build-cache/99d39595869b7f35fdcaa17b195fcb2d9d325d74/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] /root/.android/build-cache/813b0958deccec3bf09f8e36032ec2749ea94810/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] /root/.android/build-cache/158c0585ab51392d47de852d29da23e0719b37f6/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /root/.android/build-cache/86dbe134134894efff7ce745c980bcd714fe2318/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /root/.android/build-cache/30f26b2a8b9025f7c19535c1fbcf6a3a2212549b/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-compat:25.3.1] /root/.android/build-cache/dc21667fa1f2b71935fddba4028f8377f02caf43/output/AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/glamvian/.android/build-cache/ffcb1185d6e1221c6c8c66aed997410097a76639/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/glamvian/.android/build-cache/516e735e441e6462043ecdfa85329fc09e7bda05/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/glamvian/.android/build-cache/832f6769026e8607cc6572b6088bb946ca1428c0/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/glamvian/.android/build-cache/6f566739b6d2bb41c0070fbf967d34b227f22f52/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/glamvian/.android/build-cache/5974c57e4afee7404f452bba899ee896d70c864d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/glamvian/.android/build-cache/99bd6125b1464fc49dc86a37da6c705a46a0d4f1/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/glamvian/.android/build-cache/e9a330d0bbcab9ac90dbd408dc0554b173d9601f/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/glamvian/.android/build-cache/883eb146a1b852c88d8e422d121f8ea4f0a7ba7c/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/glamvian/.android/build-cache/d7e3d0380004a7aaa4f6984335641f2da989b8e4/output/AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /root/.android/build-cache/9aed397bbb4eb58288cc4d301e32d5f86cca74b9/output/AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/glamvian/.android/build-cache/ffcb1185d6e1221c6c8c66aed997410097a76639/output/AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /root/.android/build-cache/9aed397bbb4eb58288cc4d301e32d5f86cca74b9/output/AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/glamvian/.android/build-cache/ffcb1185d6e1221c6c8c66aed997410097a76639/output/AndroidManifest.xml:26:9-47
