@@ -8,12 +8,12 @@
         "source": "/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/src/main/res/drawable/ic_cloudy.png"
     },
     {
-        "merged": "/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
-        "source": "/home/glamvian/.android/build-cache/ffcb1185d6e1221c6c8c66aed997410097a76639/output/res/drawable/abc_ic_go_search_api_material.xml"
-    },
-    {
         "merged": "/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
         "source": "/home/glamvian/.android/build-cache/ffcb1185d6e1221c6c8c66aed997410097a76639/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/glamvian/.android/build-cache/ffcb1185d6e1221c6c8c66aed997410097a76639/output/res/drawable/abc_ic_go_search_api_material.xml"
     },
     {
         "merged": "/home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",

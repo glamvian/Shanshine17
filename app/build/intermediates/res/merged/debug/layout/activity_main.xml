@@ -17,12 +17,6 @@
             />
 
     </ScrollView>
-    <TextView
-        android:id="@+id/tv_weather_data"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textSize="16sp"
-        android:padding="20dp"
-        />
+
 
 </FrameLayout>
