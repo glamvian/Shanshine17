@@ -6,6 +6,8 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.ProgressBar;
 import android.widget.TextView;
 
 import com.example.root.shanshine17.data.SunshinePreferences;
@@ -16,20 +18,41 @@ import java.net.URL;
 
 public class MainActivity extends AppCompatActivity {
         private TextView mTextview;
+        private TextView mErrorMessage;
+        private ProgressBar progressBar;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
        mTextview = (TextView) findViewById(R.id.tv_weather_data);
+        mErrorMessage = (TextView)findViewById(R.id.tv_error_message);
+        progressBar = (ProgressBar)findViewById(R.id.loadProgress);
         loadWeatherData();
         }
         //this method preferred location and execute new Asynctask and call it 
         private void loadWeatherData(){
+            showWeatherDataDisplay();
             String location = SunshinePreferences.getPreferredWeatherLocation(this);
             new FetchWeatherTask().execute(location);
         }
+        private void shoErrorMessage(){
+            mErrorMessage.setVisibility(View.VISIBLE);
+            mTextview.setVisibility(View.INVISIBLE);
+
+        }
+
+        private void showWeatherDataDisplay(){
+            mTextview.setVisibility(View.VISIBLE);
+            mErrorMessage.setVisibility(View.INVISIBLE);
+        }
 
         public class FetchWeatherTask extends AsyncTask<String, Void,String[]>{
+
+            @Override
+            protected void onPreExecute() {
+                super.onPreExecute();
+                progressBar.setVisibility(View.VISIBLE);
+            }
 
             @Override
             protected String[] doInBackground(String... params) {
@@ -50,10 +73,14 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             protected void onPostExecute(String[] weatherData) {
+                progressBar.setVisibility(View.INVISIBLE);
                 if (weatherData != null){
+                    showWeatherDataDisplay();
                     for (String weatherString : weatherData){
                         mTextview.append(weatherString + "\n\n\n");
                     }
+                }else {
+                    shoErrorMessage();
                 }
             }
         }

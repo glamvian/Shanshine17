@@ -3,6 +3,7 @@
     <string name="today">Today</string>
     <string name="tomorrow">Tomorrow</string>
     <string name="refresh">Refresh</string>
+    <string name="error_message">Error Message</string>
 
 
     <!-- Date format [CHAR LIMIT=NONE] -->

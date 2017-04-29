@@ -405,6 +405,7 @@
     <string name="condition_961">Violent Storm</string>
     <string name="condition_962">Hurricane</string>
     <string name="condition_unknown">Unknown (<ns1:g id="conditionId">%1$d</ns1:g>)</string>
+    <string name="error_message">Error Message</string>
     <string name="format_full_friendly_date">
         <ns1:g id="month">%1$s</ns1:g>, <ns1:g id="day">%2$s</ns1:g>
     </string>
