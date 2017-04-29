@@ -2,6 +2,7 @@
     <string name="app_name">Shanshine17</string>
     <string name="today">Today</string>
     <string name="tomorrow">Tomorrow</string>
+    <string name="refresh">Refresh</string>
 
 
     <!-- Date format [CHAR LIMIT=NONE] -->

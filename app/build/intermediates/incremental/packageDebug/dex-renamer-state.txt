@@ -1,7 +1,4 @@
-#Fri Apr 28 22:18:45 WIB 2017
-base.0=/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2141df49a7e71b25fcf8c5f71bb1af93414a7142
-renamed.1=classes2.dex
+#Sat Apr 29 18:29:54 WIB 2017
+base.0=/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.1=/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6a44b03f8b8f4acf1d16b48c97f6964a914d3bf4/classes.dex
-base.1=/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6a44b03f8b8f4acf1d16b48c97f6964a914d3bf4
-file.0=/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2141df49a7e71b25fcf8c5f71bb1af93414a7142/classes.dex
+file.0=/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

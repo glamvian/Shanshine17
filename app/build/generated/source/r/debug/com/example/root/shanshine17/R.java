@@ -1871,6 +1871,7 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f0b0044;
         public static final int action_mode_bar_stub=0x7f0b0043;
         public static final int action_mode_close_button=0x7f0b0026;
+        public static final int action_refresh=0x7f0b006e;
         public static final int action_text=0x7f0b0059;
         public static final int actions=0x7f0b0067;
         public static final int activity_chooser_view_content=0x7f0b0027;
@@ -2020,6 +2021,9 @@ containing a value of this type.
         public static final int select_dialog_singlechoice_material=0x7f04002d;
         public static final int support_simple_spinner_dropdown_item=0x7f04002e;
     }
+    public static final class menu {
+        public static final int forecast=0x7f0d0000;
+    }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;
         public static final int ic_launcher_round=0x7f030001;
@@ -2119,10 +2123,11 @@ containing a value of this type.
         public static final int format_temperature_fahrenheit=0x7f06005d;
         public static final int format_wind_kmh=0x7f06005e;
         public static final int format_wind_mph=0x7f06005f;
+        public static final int refresh=0x7f060060;
         public static final int search_menu_title=0x7f060013;
         public static final int status_bar_notification_info_overflow=0x7f060014;
-        public static final int today=0x7f060060;
-        public static final int tomorrow=0x7f060061;
+        public static final int today=0x7f060061;
+        public static final int tomorrow=0x7f060062;
     }
     public static final class style {
         public static final int AlertDialog_AppCompat=0x7f08009f;
