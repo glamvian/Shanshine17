@@ -1,4 +1,4 @@
-#Sat Apr 29 21:15:12 WIB 2017
+#Sun May 07 20:15:51 WIB 2017
 base.0=/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

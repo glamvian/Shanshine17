@@ -3,10 +3,13 @@ package com.example.root.shanshine17;
 import android.os.AsyncTask;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.RecyclerView;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.LinearLayout;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
@@ -17,15 +20,36 @@ import com.example.root.shanshine17.utilities.OpenWeatherJsonUtils;
 import java.net.URL;
 
 public class MainActivity extends AppCompatActivity {
-        private TextView mTextview;
+
         private TextView mErrorMessage;
         private ProgressBar progressBar;
+        private RecyclerView mRecyclerView;
+        private ForecastAdapter mForecastAdapter;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-       mTextview = (TextView) findViewById(R.id.tv_weather_data);
+        mRecyclerView = (RecyclerView)findViewById(R.id.recyclerview_forecast);
         mErrorMessage = (TextView)findViewById(R.id.tv_error_message);
+        /*
+         * LinearLayoutManager can support HORIZONTAL or VERTICAL orientations. The reverse layout
+         * parameter is useful mostly for HORIZONTAL layouts that should reverse for right to left
+         * languages.
+         */
+        LinearLayoutManager linearLayoutManager = new LinearLayoutManager(this,LinearLayoutManager.VERTICAL,false);
+        mRecyclerView.setLayoutManager(linearLayoutManager);
+         /*
+         * Use this setting to improve performance if you know that changes in content do not
+         * change the child layout size in the RecyclerView
+         */
+        mRecyclerView.setHasFixedSize(true);
+         /*
+         * The ForecastAdapter is responsible for linking our weather data with the Views that
+         * will end up displaying our weather data.
+         */
+        mForecastAdapter = new ForecastAdapter();
+         /* Setting the adapter attaches it to the RecyclerView in our layout. */
+        mRecyclerView.setAdapter(mForecastAdapter);
         progressBar = (ProgressBar)findViewById(R.id.loadProgress);
         loadWeatherData();
         }
@@ -37,12 +61,12 @@ public class MainActivity extends AppCompatActivity {
         }
         private void shoErrorMessage(){
             mErrorMessage.setVisibility(View.VISIBLE);
-            mTextview.setVisibility(View.INVISIBLE);
+            mRecyclerView.setVisibility(View.INVISIBLE);
 
         }
 
         private void showWeatherDataDisplay(){
-            mTextview.setVisibility(View.VISIBLE);
+            mRecyclerView.setVisibility(View.VISIBLE);
             mErrorMessage.setVisibility(View.INVISIBLE);
         }
 
@@ -76,9 +100,7 @@ public class MainActivity extends AppCompatActivity {
                 progressBar.setVisibility(View.INVISIBLE);
                 if (weatherData != null){
                     showWeatherDataDisplay();
-                    for (String weatherString : weatherData){
-                        mTextview.append(weatherString + "\n\n\n");
-                    }
+                   mForecastAdapter.setmWeatherData(weatherData);
                 }else {
                     shoErrorMessage();
                 }
@@ -97,7 +119,7 @@ public class MainActivity extends AppCompatActivity {
       int id = item.getItemId();
 
         if (id == R.id.action_refresh){
-            mTextview.setText("");
+            mForecastAdapter.setmWeatherData(null);
             loadWeatherData();
             return true;
         }

@@ -12,12 +12,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/glamvian/.android/build-cache/5974c57e4afee7404f452bba899ee896d70c864d/output/jars/classes.jar"
+        jar="/home/glamvian/.android/build-cache/8a9a2a5c0a5f1d8ee098266b7ad2dabad951fa60/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/pre-dexed/debug/classes_eff6c418d559c5fcadb94c6d38e7b4c67a0e218a.jar" />
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/pre-dexed/debug/classes_148f9d017a0c0814a711ef63792bf004f53d0a0b.jar" />
     </item>
     <item
         is-multidex="false"
@@ -48,21 +48,39 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/glamvian/.android/build-cache/d7e3d0380004a7aaa4f6984335641f2da989b8e4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/pre-dexed/debug/classes_0d8cc65412023eb6c2c36d97f09144b492b92b57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/glamvian/.android/build-cache/6f566739b6d2bb41c0070fbf967d34b227f22f52/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/pre-dexed/debug/classes_b527e2a737afb4a329dfee1364a195732c9c7907.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/glamvian/.android/build-cache/5974c57e4afee7404f452bba899ee896d70c864d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/pre-dexed/debug/classes_eff6c418d559c5fcadb94c6d38e7b4c67a0e218a.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/glamvian/.android/build-cache/e9a330d0bbcab9ac90dbd408dc0554b173d9601f/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
         <dex dex="/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/pre-dexed/debug/classes_d98c92105090f95a2236ebb936c3c29cfcf820b6.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
-        <dex dex="/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2141df49a7e71b25fcf8c5f71bb1af93414a7142/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -75,39 +93,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/glamvian/.android/build-cache/d7e3d0380004a7aaa4f6984335641f2da989b8e4/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/pre-dexed/debug/classes_0d8cc65412023eb6c2c36d97f09144b492b92b57.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/glamvian/.android/build-cache/99bd6125b1464fc49dc86a37da6c705a46a0d4f1/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
         <dex dex="/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/pre-dexed/debug/classes_f8d28585e84f57e44f0c063661fe7c8caa09f990.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="48dddda4c59cd47e7c0e5412b224161158d2d924">
-        <dex dex="/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6a44b03f8b8f4acf1d16b48c97f6964a914d3bf4/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/glamvian/.android/build-cache/6f566739b6d2bb41c0070fbf967d34b227f22f52/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/pre-dexed/debug/classes_b527e2a737afb4a329dfee1364a195732c9c7907.jar" />
     </item>
 
 </items>
