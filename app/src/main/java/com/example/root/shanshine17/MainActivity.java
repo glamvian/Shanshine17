@@ -1,5 +1,6 @@
 package com.example.root.shanshine17;
 
+import android.content.Context;
 import android.os.AsyncTask;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -12,6 +13,7 @@ import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.ProgressBar;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.example.root.shanshine17.data.SunshinePreferences;
 import com.example.root.shanshine17.utilities.NetworkUtils;
@@ -19,7 +21,7 @@ import com.example.root.shanshine17.utilities.OpenWeatherJsonUtils;
 
 import java.net.URL;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity implements ForecastAdapter.ForecastAdapterOnclickHandler {
 
         private TextView mErrorMessage;
         private ProgressBar progressBar;
@@ -47,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
          * The ForecastAdapter is responsible for linking our weather data with the Views that
          * will end up displaying our weather data.
          */
-        mForecastAdapter = new ForecastAdapter();
+        mForecastAdapter = new ForecastAdapter(this);
          /* Setting the adapter attaches it to the RecyclerView in our layout. */
         mRecyclerView.setAdapter(mForecastAdapter);
         progressBar = (ProgressBar)findViewById(R.id.loadProgress);
@@ -59,7 +61,19 @@ public class MainActivity extends AppCompatActivity {
             String location = SunshinePreferences.getPreferredWeatherLocation(this);
             new FetchWeatherTask().execute(location);
         }
-        private void shoErrorMessage(){
+    /**
+     * This method is overridden by our MainActivity class in order to handle RecyclerView item
+     * clicks.
+     *
+     * @param weatherForDay The weather for the day that was clicked
+     */
+    @Override
+    public void onClick(String weatherForDay) {
+        Context context = this;
+        Toast.makeText(context,weatherForDay,Toast.LENGTH_SHORT).show();
+    }
+
+    private void shoErrorMessage(){
             mErrorMessage.setVisibility(View.VISIBLE);
             mRecyclerView.setVisibility(View.INVISIBLE);
 

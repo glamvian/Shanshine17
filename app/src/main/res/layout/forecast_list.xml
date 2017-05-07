@@ -7,11 +7,11 @@
         android:layout_height="wrap_content"
         android:id="@+id/tv_weather_data"
         android:padding="16dp"/>
-    <view
+    <View
         android:layout_width="match_parent"
         android:layout_height="1dp"
         android:background="#dadada"
         android:layout_marginRight="8dp"
-        android:layout_marginLeft="8dp"></view>
+        android:layout_marginLeft="8dp"></View>
 
 </LinearLayout>
