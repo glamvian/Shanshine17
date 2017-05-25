@@ -4,6 +4,8 @@
     <string name="tomorrow">Tomorrow</string>
     <string name="refresh">Refresh</string>
     <string name="error_message">Error Message</string>
+    <string name="action_share">share</string>
+    <string name="action_map">share map</string>
 
 
     <!-- Date format [CHAR LIMIT=NONE] -->
