@@ -1,50 +1,26 @@
 [
     {
-        "merged": "/home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
-        "source": "/root/.android/build-cache/9aed397bbb4eb58288cc4d301e32d5f86cca74b9/output/res/layout-v11/notification_template_big_media.xml"
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout-v11/notification_template_big_media.xml"
     },
     {
-        "merged": "/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
-        "source": "/home/glamvian/.android/build-cache/ffcb1185d6e1221c6c8c66aed997410097a76639/output/res/layout-v11/notification_template_big_media.xml"
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout-v11/notification_media_action.xml"
     },
     {
-        "merged": "/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
-        "source": "/home/glamvian/.android/build-cache/ffcb1185d6e1221c6c8c66aed997410097a76639/output/res/layout-v11/notification_template_big_media_narrow.xml"
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout-v11/notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
-        "source": "/home/glamvian/.android/build-cache/ffcb1185d6e1221c6c8c66aed997410097a76639/output/res/layout-v11/notification_media_action.xml"
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
-        "source": "/home/glamvian/.android/build-cache/ffcb1185d6e1221c6c8c66aed997410097a76639/output/res/layout-v11/notification_media_cancel_action.xml"
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout-v11/notification_template_big_media_custom.xml"
     },
     {
-        "merged": "/home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
-        "source": "/root/.android/build-cache/9aed397bbb4eb58288cc4d301e32d5f86cca74b9/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
-    },
-    {
-        "merged": "/home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
-        "source": "/root/.android/build-cache/9aed397bbb4eb58288cc4d301e32d5f86cca74b9/output/res/layout-v11/notification_template_big_media_narrow.xml"
-    },
-    {
-        "merged": "/home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
-        "source": "/root/.android/build-cache/9aed397bbb4eb58288cc4d301e32d5f86cca74b9/output/res/layout-v11/notification_media_cancel_action.xml"
-    },
-    {
-        "merged": "/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
-        "source": "/home/glamvian/.android/build-cache/ffcb1185d6e1221c6c8c66aed997410097a76639/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
-    },
-    {
-        "merged": "/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
-        "source": "/home/glamvian/.android/build-cache/ffcb1185d6e1221c6c8c66aed997410097a76639/output/res/layout-v11/notification_template_big_media_custom.xml"
-    },
-    {
-        "merged": "/home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
-        "source": "/root/.android/build-cache/9aed397bbb4eb58288cc4d301e32d5f86cca74b9/output/res/layout-v11/notification_template_big_media_custom.xml"
-    },
-    {
-        "merged": "/home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
-        "source": "/root/.android/build-cache/9aed397bbb4eb58288cc4d301e32d5f86cca74b9/output/res/layout-v11/notification_media_action.xml"
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout-v11/notification_media_cancel_action.xml"
     }
 ]

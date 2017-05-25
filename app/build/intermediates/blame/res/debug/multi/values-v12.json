@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v12/values-v12.xml",
+        "outputFile": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v12/values-v12.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 274
                 },
                 "from": {
-                    "file": "/root/.android/build-cache/9aed397bbb4eb58288cc4d301e32d5f86cca74b9/output/res/values-v12/values-v12.xml",
+                    "file": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/values-v12/values-v12.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -33,7 +33,7 @@
                     "endOffset": 474
                 },
                 "from": {
-                    "file": "/root/.android/build-cache/9aed397bbb4eb58288cc4d301e32d5f86cca74b9/output/res/values-v12/values-v12.xml",
+                    "file": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/values-v12/values-v12.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -53,7 +53,7 @@
                     "endOffset": 593
                 },
                 "from": {
-                    "file": "/root/.android/build-cache/9aed397bbb4eb58288cc4d301e32d5f86cca74b9/output/res/values-v12/values-v12.xml",
+                    "file": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/values-v12/values-v12.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -72,92 +72,7 @@
                     "endOffset": 688
                 },
                 "from": {
-                    "file": "/root/.android/build-cache/9aed397bbb4eb58288cc4d301e32d5f86cca74b9/output/res/values-v12/values-v12.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 598,
-                        "endColumn": 94,
-                        "endOffset": 688
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v12/values-v12.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endLine": 4,
-                    "endColumn": 12,
-                    "endOffset": 274
-                },
-                "from": {
-                    "file": "/home/glamvian/.android/build-cache/ffcb1185d6e1221c6c8c66aed997410097a76639/output/res/values-v12/values-v12.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endLine": 4,
-                        "endColumn": 12,
-                        "endOffset": 274
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 279,
-                    "endLine": 7,
-                    "endColumn": 12,
-                    "endOffset": 474
-                },
-                "from": {
-                    "file": "/home/glamvian/.android/build-cache/ffcb1185d6e1221c6c8c66aed997410097a76639/output/res/values-v12/values-v12.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 279,
-                        "endLine": 7,
-                        "endColumn": 12,
-                        "endOffset": 474
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 479,
-                    "endColumn": 118,
-                    "endOffset": 593
-                },
-                "from": {
-                    "file": "/home/glamvian/.android/build-cache/ffcb1185d6e1221c6c8c66aed997410097a76639/output/res/values-v12/values-v12.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 479,
-                        "endColumn": 118,
-                        "endOffset": 593
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 598,
-                    "endColumn": 94,
-                    "endOffset": 688
-                },
-                "from": {
-                    "file": "/home/glamvian/.android/build-cache/ffcb1185d6e1221c6c8c66aed997410097a76639/output/res/values-v12/values-v12.xml",
+                    "file": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/values-v12/values-v12.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,

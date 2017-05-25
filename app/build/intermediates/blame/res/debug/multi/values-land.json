@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+        "outputFile": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 120
                 },
                 "from": {
-                    "file": "/root/.android/build-cache/9aed397bbb4eb58288cc4d301e32d5f86cca74b9/output/res/values-land/values-land.xml",
+                    "file": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 184
                 },
                 "from": {
-                    "file": "/root/.android/build-cache/9aed397bbb4eb58288cc4d301e32d5f86cca74b9/output/res/values-land/values-land.xml",
+                    "file": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 255
                 },
                 "from": {
-                    "file": "/root/.android/build-cache/9aed397bbb4eb58288cc4d301e32d5f86cca74b9/output/res/values-land/values-land.xml",
+                    "file": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,88 +68,7 @@
                     "endOffset": 323
                 },
                 "from": {
-                    "file": "/root/.android/build-cache/9aed397bbb4eb58288cc4d301e32d5f86cca74b9/output/res/values-land/values-land.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 260,
-                        "endColumn": 67,
-                        "endOffset": 323
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 69,
-                    "endOffset": 120
-                },
-                "from": {
-                    "file": "/home/glamvian/.android/build-cache/ffcb1185d6e1221c6c8c66aed997410097a76639/output/res/values-land/values-land.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 69,
-                        "endOffset": 120
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 125,
-                    "endColumn": 63,
-                    "endOffset": 184
-                },
-                "from": {
-                    "file": "/home/glamvian/.android/build-cache/ffcb1185d6e1221c6c8c66aed997410097a76639/output/res/values-land/values-land.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 125,
-                        "endColumn": 63,
-                        "endOffset": 184
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 189,
-                    "endColumn": 70,
-                    "endOffset": 255
-                },
-                "from": {
-                    "file": "/home/glamvian/.android/build-cache/ffcb1185d6e1221c6c8c66aed997410097a76639/output/res/values-land/values-land.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 189,
-                        "endColumn": 70,
-                        "endOffset": 255
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 260,
-                    "endColumn": 67,
-                    "endOffset": 323
-                },
-                "from": {
-                    "file": "/home/glamvian/.android/build-cache/ffcb1185d6e1221c6c8c66aed997410097a76639/output/res/values-land/values-land.xml",
+                    "file": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,

@@ -1,18 +1,10 @@
 [
     {
-        "merged": "/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
-        "source": "/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
-        "source": "/home/glamvian/AndroidStudioProjects/Shanshine17-master/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
-        "source": "/home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
-        "source": "/home/glamvian/Documents/ud851-Sunshine-student/Shanshine17/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
     }
 ]
