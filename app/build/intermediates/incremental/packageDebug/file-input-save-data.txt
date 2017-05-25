@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu May 25 20:22:54 WIB 2017
+#Thu May 25 20:34:18 WIB 2017
 210.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/resources-debug.ap_/res/anim/abc_fade_out.xml
