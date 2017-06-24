@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/menu/detail.xml",
+        "source": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/res/menu/detail.xml"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/menu/forecast.xml",
+        "source": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/res/menu/forecast.xml"
+    }
+]

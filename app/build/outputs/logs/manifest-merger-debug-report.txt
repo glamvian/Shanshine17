@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/AndroidManifest.xml:2:1-24:12
+ADDED from /home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/AndroidManifest.xml:2:1-26:12
 	package
 		ADDED from /home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/AndroidManifest.xml:3:5-43
 		INJECTED from /home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/AndroidManifest.xml
@@ -18,7 +18,9 @@ ADDED from /home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/AndroidMan
 	android:name
 		ADDED from /home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/AndroidManifest.xml:7:5-22:19
+ADDED from /home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/glmvn/.android/build-cache/8f1208373cc7e390aa35d124fe5756a9f80c1899/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:preference-v7:25.3.1] /home/glmvn/.android/build-cache/4213d73534fe35ca892901b32034c2027b798043/output/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] /home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v4:25.3.1] /home/glmvn/.android/build-cache/ffa5781ac46afd4369f9a8d3bb1d552a3391bd92/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.1] /home/glmvn/.android/build-cache/1c27f65d11b67c3a74c5857530273cb6efc94aee/output/AndroidManifest.xml:29:5-20
@@ -28,7 +30,6 @@ MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/glmvn/.a
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/glmvn/.android/build-cache/468451337d4f42ea30bb62ebd5bc1efb5dfd0dd5/output/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-core-ui:25.3.1] /home/glmvn/.android/build-cache/b7a5e2a005ba097d94843730872594f076bfc8c7/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:25.3.1] /home/glmvn/.android/build-cache/bc5f0e88cec184549cd7e011bd877c9f21feeb6a/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/glmvn/.android/build-cache/8f1208373cc7e390aa35d124fe5756a9f80c1899/output/AndroidManifest.xml:9:5-20
 	android:label
 		ADDED from /home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/AndroidManifest.xml:10:9-41
 	android:supportsRtl
@@ -42,25 +43,33 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/glmvn
 	android:theme
 		ADDED from /home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/AndroidManifest.xml:13:9-40
 activity#com.example.root.shanshine17.MainActivity
-ADDED from /home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/AndroidManifest.xml:14:9-20:20
+ADDED from /home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/AndroidManifest.xml:14:9-21:20
+	android:launchMode
+		ADDED from /home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/AndroidManifest.xml:15:13-43
 	android:name
 		ADDED from /home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/AndroidManifest.xml:14:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/AndroidManifest.xml:15:13-19:29
+ADDED from /home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from /home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/AndroidManifest.xml:16:17-69
+ADDED from /home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from /home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/AndroidManifest.xml:16:25-66
+		ADDED from /home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/AndroidManifest.xml:18:17-77
+ADDED from /home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from /home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/AndroidManifest.xml:18:27-74
+		ADDED from /home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/AndroidManifest.xml:19:27-74
 activity#com.example.root.shanshine17.DetailActivity
-ADDED from /home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/AndroidManifest.xml:21:9-61
+ADDED from /home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/AndroidManifest.xml:22:9-52
 	android:name
-		ADDED from /home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/AndroidManifest.xml:21:19-49
+		ADDED from /home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/AndroidManifest.xml:22:19-49
+activity#com.example.root.shanshine17.SettingActivity
+ADDED from /home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/AndroidManifest.xml:23:9-62
+	android:name
+		ADDED from /home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/AndroidManifest.xml:23:19-50
 uses-sdk
 INJECTED from /home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/glmvn/.android/build-cache/8f1208373cc7e390aa35d124fe5756a9f80c1899/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:preference-v7:25.3.1] /home/glmvn/.android/build-cache/4213d73534fe35ca892901b32034c2027b798043/output/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:appcompat-v7:25.3.1] /home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-v4:25.3.1] /home/glmvn/.android/build-cache/ffa5781ac46afd4369f9a8d3bb1d552a3391bd92/output/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:25.3.1] /home/glmvn/.android/build-cache/1c27f65d11b67c3a74c5857530273cb6efc94aee/output/AndroidManifest.xml:21:5-23:60
@@ -71,7 +80,6 @@ MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/glmvn/.an
 MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/glmvn/.android/build-cache/9dffa87019b096fa522f559398de08abcffc32c4/output/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-core-ui:25.3.1] /home/glmvn/.android/build-cache/b7a5e2a005ba097d94843730872594f076bfc8c7/output/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:25.3.1] /home/glmvn/.android/build-cache/bc5f0e88cec184549cd7e011bd877c9f21feeb6a/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/glmvn/.android/build-cache/8f1208373cc7e390aa35d124fe5756a9f80c1899/output/AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
@@ -81,7 +89,8 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/glmvn
 		INJECTED from /home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/AndroidManifest.xml
 		INJECTED from /home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.1] /home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:preference-v7:25.3.1] /home/glmvn/.android/build-cache/4213d73534fe35ca892901b32034c2027b798043/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-v4:25.3.1] /home/glmvn/.android/build-cache/ffa5781ac46afd4369f9a8d3bb1d552a3391bd92/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-fragment:25.3.1] /home/glmvn/.android/build-cache/1c27f65d11b67c3a74c5857530273cb6efc94aee/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-media-compat:25.3.1] /home/glmvn/.android/build-cache/ef7c098d25cbc7e96cf4ef95cca30faa08d28b90/output/AndroidManifest.xml:25:5-27:34
@@ -92,6 +101,6 @@ MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/glmvn/.android/bu
 MERGED from [com.android.support:support-core-ui:25.3.1] /home/glmvn/.android/build-cache/b7a5e2a005ba097d94843730872594f076bfc8c7/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-compat:25.3.1] /home/glmvn/.android/build-cache/bc5f0e88cec184549cd7e011bd877c9f21feeb6a/output/AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:preference-v7:25.3.1] /home/glmvn/.android/build-cache/4213d73534fe35ca892901b32034c2027b798043/output/AndroidManifest.xml:24:9-31
 	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:preference-v7:25.3.1] /home/glmvn/.android/build-cache/4213d73534fe35ca892901b32034c2027b798043/output/AndroidManifest.xml:23:9-47

@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
-        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/drawable/notification_bg.xml"
-    },
-    {
         "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
         "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/drawable/notification_bg.xml"
     },
     {
         "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable/ic_fog.png",
@@ -72,12 +72,12 @@
         "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/drawable/abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
         "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable/ic_rain.png",
         "source": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/res/drawable/ic_rain.png"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
@@ -100,12 +100,12 @@
         "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/drawable/abc_text_cursor_material.xml"
-    },
-    {
         "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
         "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/drawable/abc_text_cursor_material.xml"
     },
     {
         "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
@@ -152,16 +152,20 @@
         "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/drawable/abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
-        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/drawable/abc_ic_menu_overflow_material.xml"
-    },
-    {
         "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable/ic_storm.png",
         "source": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/res/drawable/ic_storm.png"
     },
     {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
         "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable/ic_light_clouds.png",
         "source": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/res/drawable/ic_light_clouds.png"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable/ic_snow.png",
+        "source": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/res/drawable/ic_snow.png"
     },
     {
         "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
@@ -174,10 +178,6 @@
     {
         "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
         "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/drawable/abc_dialog_material_background.xml"
-    },
-    {
-        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable/ic_snow.png",
-        "source": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/res/drawable/ic_snow.png"
     },
     {
         "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",

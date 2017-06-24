@@ -44,12 +44,12 @@
         "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
         "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png",

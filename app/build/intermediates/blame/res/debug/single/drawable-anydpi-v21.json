@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/art_storm.xml",
+        "source": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/generated/res/pngs/debug/drawable-anydpi-v21/art_storm.xml"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/art_fog.xml",
+        "source": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/generated/res/pngs/debug/drawable-anydpi-v21/art_fog.xml"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/art_clear.xml",
+        "source": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/generated/res/pngs/debug/drawable-anydpi-v21/art_clear.xml"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/art_snow.xml",
+        "source": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/generated/res/pngs/debug/drawable-anydpi-v21/art_snow.xml"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/art_rain.xml",
+        "source": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/generated/res/pngs/debug/drawable-anydpi-v21/art_rain.xml"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/art_light_clouds.xml",
+        "source": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/generated/res/pngs/debug/drawable-anydpi-v21/art_light_clouds.xml"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/art_clouds.xml",
+        "source": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/generated/res/pngs/debug/drawable-anydpi-v21/art_clouds.xml"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/art_light_rain.xml",
+        "source": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/generated/res/pngs/debug/drawable-anydpi-v21/art_light_rain.xml"
+    }
+]

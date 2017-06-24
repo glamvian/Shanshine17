@@ -3,102 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/jars/classes.jar"
+        jar="/home/glmvn/.android/build-cache/4213d73534fe35ca892901b32034c2027b798043/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/pre-dexed/debug/classes_25a360b42d74d75fcf21d22876588e740475e316.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/glmvn/.android/build-cache/5fbf936b163fc8c518ed77922fa7aa7b7cb1b99c/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/pre-dexed/debug/classes_2109cb46aa8414f318970feb8e99c18a15899ff0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/glmvn/.android/build-cache/ffa5781ac46afd4369f9a8d3bb1d552a3391bd92/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/pre-dexed/debug/classes_e38fb6d455780374251beeb1ba03dc91661663f2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/glmvn/.android/build-cache/9dffa87019b096fa522f559398de08abcffc32c4/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/pre-dexed/debug/classes_da18d60589f638275840a91546c3ca4d954dc291.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/glmvn/.android/build-cache/bcbe16a33957bf4e2deb4b280caf5a68b74f02c9/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/pre-dexed/debug/classes_a27aac4ff8a62f248c36713c49048c2f0a6fda68.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/glmvn/.android/build-cache/1c27f65d11b67c3a74c5857530273cb6efc94aee/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/pre-dexed/debug/classes_072587999d4843d55ad0672b159c36288f9c16d4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/glmvn/.android/build-cache/b7a5e2a005ba097d94843730872594f076bfc8c7/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/pre-dexed/debug/classes_bbd2a6f849e6ed65843bd058f8cd229e415e7ac6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/glmvn/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_deb4a20a3d8222cd4dfc0407a061b19b8329f9e0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/glmvn/.android/build-cache/ef7c098d25cbc7e96cf4ef95cca30faa08d28b90/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/pre-dexed/debug/classes_1e483261d95014909fb85b499fd6512b1956127e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/glmvn/.android/build-cache/468451337d4f42ea30bb62ebd5bc1efb5dfd0dd5/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/pre-dexed/debug/classes_a9cd814c90be05699eac53de5458d7b18168378c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/glmvn/.android/build-cache/bc5f0e88cec184549cd7e011bd877c9f21feeb6a/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/pre-dexed/debug/classes_7c9a779d11c53444fe9e863fa55f92b942bdfc89.jar" />
+        sha1="536228b2496030d983d01856aa56b4d71b57d0db">
+        <dex dex="/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/pre-dexed/debug/classes_9cf01d394361db36a356e496016ce7ddf2f44d43.jar" />
     </item>
 
 </items>

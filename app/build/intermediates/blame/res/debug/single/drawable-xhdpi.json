@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable-xhdpi/art_storm.png",
+        "source": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/generated/res/pngs/debug/drawable-xhdpi/art_storm.png"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable-xhdpi/art_light_clouds.png",
+        "source": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/generated/res/pngs/debug/drawable-xhdpi/art_light_clouds.png"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable-xhdpi/art_rain.png",
+        "source": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/generated/res/pngs/debug/drawable-xhdpi/art_rain.png"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable-xhdpi/art_clear.png",
+        "source": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/generated/res/pngs/debug/drawable-xhdpi/art_clear.png"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable-xhdpi/art_fog.png",
+        "source": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/generated/res/pngs/debug/drawable-xhdpi/art_fog.png"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable-xhdpi/art_clouds.png",
+        "source": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/generated/res/pngs/debug/drawable-xhdpi/art_clouds.png"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable-xhdpi/art_snow.png",
+        "source": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/generated/res/pngs/debug/drawable-xhdpi/art_snow.png"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable-xhdpi/art_light_rain.png",
+        "source": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/generated/res/pngs/debug/drawable-xhdpi/art_light_rain.png"
+    }
+]

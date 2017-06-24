@@ -8,12 +8,12 @@
         "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
         "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
         "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
@@ -196,12 +196,12 @@
         "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_low_pressed.9.png",
-        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
-    },
-    {
         "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png",
         "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
         "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",

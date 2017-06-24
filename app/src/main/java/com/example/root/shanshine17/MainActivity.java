@@ -2,6 +2,7 @@ package com.example.root.shanshine17;
 
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.net.Uri;
 import android.os.AsyncTask;
 import android.support.v4.app.LoaderManager;
@@ -9,6 +10,7 @@ import android.support.v4.content.AsyncTaskLoader;
 import android.support.v4.content.Loader;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.preference.PreferenceManager;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
@@ -28,7 +30,7 @@ import com.example.root.shanshine17.utilities.OpenWeatherJsonUtils;
 import java.net.URL;
 
 public class MainActivity extends AppCompatActivity implements ForecastAdapter.ForecastAdapterOnclickHandler,
-        LoaderManager.LoaderCallbacks<String[]> {
+        LoaderManager.LoaderCallbacks<String[]> ,SharedPreferences.OnSharedPreferenceChangeListener {
 
         private static final String TAG = MainActivity.class.getSimpleName();
         private TextView mErrorMessage;
@@ -36,6 +38,7 @@ public class MainActivity extends AppCompatActivity implements ForecastAdapter.F
         private RecyclerView mRecyclerView;
         private ForecastAdapter mForecastAdapter;
         private static final int FORECAST_LOADER_ID = 0;
+        private static boolean PREFERENCE_HAVE_BEEN_UPDATED =  false;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -88,8 +91,32 @@ public class MainActivity extends AppCompatActivity implements ForecastAdapter.F
          * the last created loader is re-used
          */
         getSupportLoaderManager().initLoader(loaderId, bundleLoader, callbacks);
+
+        /*
+        register MainActivity as an OnPreferenceChangedListener to receive a callback when a
+        SharedPreference has changed. please note that we must unregister MainActivity as an
+        OnSharedPreferenceChanged listener onDestroy to avoid any memory leaks
+         */
+        PreferenceManager.getDefaultSharedPreferences(this)
+                .registerOnSharedPreferenceChangeListener(this);
     }
 
+    @Override
+    protected void onStart() {
+        if (PREFERENCE_HAVE_BEEN_UPDATED){
+            Log.d(TAG,"onStart: preference were updated");
+            getSupportLoaderManager().restartLoader(FORECAST_LOADER_ID,null,this);
+            PREFERENCE_HAVE_BEEN_UPDATED = false;
+        }
+        super.onStart();
+    }
+
+    @Override
+    protected void onDestroy() {
+        PreferenceManager.getDefaultSharedPreferences(this)
+                .unregisterOnSharedPreferenceChangeListener(this);
+        super.onDestroy();
+    }
 
     /**
      * Instantiate and return a new Loader for the given ID
@@ -190,7 +217,7 @@ public class MainActivity extends AppCompatActivity implements ForecastAdapter.F
      * an imlicit intent.
      */
     private void openlocationMap(){
-        String addresLocation = "1600 Amphitheatre Parkway, CA";
+        String addresLocation = SunshinePreferences.getPreferredWeatherLocation(this);
         Uri geolocation = Uri.parse("geo:0,0?q=" +addresLocation);
 
         Intent intent = new Intent(Intent.ACTION_VIEW);
@@ -243,7 +270,25 @@ public class MainActivity extends AppCompatActivity implements ForecastAdapter.F
             openlocationMap();
             return true;
         }
+        if (id == R.id.action_setting){
+            Intent intent = new Intent(this,SettingActivity.class);
+            startActivity(intent);
+        }
         return super.onOptionsItemSelected(item);
+    }
+
+    @Override
+    public void onSharedPreferenceChanged(SharedPreferences sharedPreferences, String key) {
+        /*
+        set this flag to true so that when control returns to MainActivity , it can refresh the
+        data.
+        this isn't the deal solution because there really isn't a need to perform another
+        get request just to change the units, but this is the simplest solution that gets the
+        job done for now. later in this course, we are goint to show you more elegant ways to
+        handle converting the units from celcius to farenheit  and back without hitting the network
+        again by keeping a copy of the data in a manageable format
+         */
+        PREFERENCE_HAVE_BEEN_UPDATED = true;
     }
 }
 

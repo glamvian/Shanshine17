@@ -8,6 +8,14 @@
         "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout-v11/notification_media_action.xml"
     },
     {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout-v11/preference.xml",
+        "source": "/home/glmvn/.android/build-cache/4213d73534fe35ca892901b32034c2027b798043/output/res/layout-v11/preference.xml"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout-v11/preference_dropdown.xml",
+        "source": "/home/glmvn/.android/build-cache/4213d73534fe35ca892901b32034c2027b798043/output/res/layout-v11/preference_dropdown.xml"
+    },
+    {
         "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
         "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout-v11/notification_template_big_media_narrow.xml"
     },

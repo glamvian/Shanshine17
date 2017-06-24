@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_select_dialog_material.xml"
-    },
-    {
         "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
         "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_screen_simple.xml"
     },
@@ -12,24 +8,20 @@
         "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_popup_menu_item_layout.xml"
-    },
-    {
         "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
         "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_expanded_menu_layout.xml"
-    },
-    {
-        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
-        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_action_bar_up_container.xml"
     },
     {
         "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
         "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/notification_action_tombstone.xml"
     },
     {
-        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
-        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_list_menu_item_icon.xml"
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/preference_dialog_edittext.xml",
+        "source": "/home/glmvn/.android/build-cache/4213d73534fe35ca892901b32034c2027b798043/output/res/layout/preference_dialog_edittext.xml"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_action_bar_up_container.xml"
     },
     {
         "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
@@ -40,36 +32,12 @@
         "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_action_bar_title_item.xml"
     },
     {
-        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
-        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_dialog_title_material.xml"
-    },
-    {
         "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
         "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_search_view.xml"
     },
     {
-        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
-        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/notification_template_custom_big.xml"
-    },
-    {
-        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
         "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
         "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/notification_template_lines_media.xml"
-    },
-    {
-        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
-        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_alert_dialog_button_bar_material.xml"
-    },
-    {
-        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
-        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
-        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/notification_template_part_chronometer.xml"
     },
     {
         "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
@@ -88,18 +56,6 @@
         "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
-        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_action_menu_item_layout.xml"
-    },
-    {
-        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
-        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_popup_menu_header_item_layout.xml"
-    },
-    {
-        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_screen_content_include.xml"
-    },
-    {
         "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
         "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/notification_template_media_custom.xml"
     },
@@ -110,10 +66,6 @@
     {
         "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
         "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_action_menu_layout.xml"
-    },
-    {
-        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
-        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_list_menu_item_layout.xml"
     },
     {
         "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
@@ -140,12 +92,100 @@
         "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_activity_chooser_view.xml"
     },
     {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/preference_widget_checkbox.xml",
+        "source": "/home/glmvn/.android/build-cache/4213d73534fe35ca892901b32034c2027b798043/output/res/layout/preference_widget_checkbox.xml"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/preference_information.xml",
+        "source": "/home/glmvn/.android/build-cache/4213d73534fe35ca892901b32034c2027b798043/output/res/layout/preference_information.xml"
+    },
+    {
         "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
         "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
         "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
         "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/preference_widget_seekbar.xml",
+        "source": "/home/glmvn/.android/build-cache/4213d73534fe35ca892901b32034c2027b798043/output/res/layout/preference_widget_seekbar.xml"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/preference_recyclerview.xml",
+        "source": "/home/glmvn/.android/build-cache/4213d73534fe35ca892901b32034c2027b798043/output/res/layout/preference_recyclerview.xml"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/preference_list_fragment.xml",
+        "source": "/home/glmvn/.android/build-cache/4213d73534fe35ca892901b32034c2027b798043/output/res/layout/preference_list_fragment.xml"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/activity_setting.xml",
+        "source": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/res/layout/activity_setting.xml"
+    },
+    {
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/preference_category.xml",
+        "source": "/home/glmvn/.android/build-cache/4213d73534fe35ca892901b32034c2027b798043/output/res/layout/preference_category.xml"
     },
     {
         "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
@@ -156,12 +196,8 @@
         "source": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
-        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_alert_dialog_material.xml"
-    },
-    {
-        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
-        "source": "/home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/res/layout/abc_alert_dialog_title_material.xml"
+        "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/preference_widget_switch_compat.xml",
+        "source": "/home/glmvn/.android/build-cache/4213d73534fe35ca892901b32034c2027b798043/output/res/layout/preference_widget_switch_compat.xml"
     },
     {
         "merged": "/home/glmvn/AndroidStudioProjects/Shanshine17/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
